@@ -195,7 +195,7 @@ body {
   width: 300px;
   height: 300px;
   border-radius: 150px;
-
+  box-shadow: 0px 5.26027px 19.726px var(--light-color);
   margin-bottom: 50px;
 }
 .contacts {
