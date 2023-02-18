@@ -240,6 +240,9 @@ body {
   line-height: 24px;
   color: var(--text-color);
 }
+.link.line {
+  text-decoration: underline;
+}
 .tech-skills {
   margin-left: 40px;
   margin-bottom: 45px;
