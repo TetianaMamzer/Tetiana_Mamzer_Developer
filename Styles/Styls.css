@@ -238,7 +238,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: var(--text-color);
+  color: var(--bacground);
 }
 
 .contact-link-project {
