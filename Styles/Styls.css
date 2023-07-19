@@ -19,6 +19,7 @@ body {
   flex-direction: row-reverse;
   width: 1200px;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 /* main content  */
@@ -186,7 +187,7 @@ body {
   border-top-right-radius: 2000px;
   padding: 20px;
   width: 370px;
-  height: 1735px;
+  height: 100%;
 }
 .photo {
   display: block;
